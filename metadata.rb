@@ -1,6 +1,8 @@
 name             "jpegoptim"
 description      "Installs jpegoptim"
 version          "0.1.0"
+maintainer       "Zoocha"
+license          "Apache 2.0"
 
 recipe "jpegoptim", "Installs jpegoptim"
 
